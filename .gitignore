@@ -7,3 +7,16 @@ __pycache__/
 db.sqlite3
 staticfiles/
 media/
+.vscode/
+# Kilocode rules
+.kilocode/
+
+# Kimi Code rules
+.kimi/
+AGENTS.md
+claude.md
+kimi.md
+
+# AI Agent Plans
+plans/
+db.sqlite3
